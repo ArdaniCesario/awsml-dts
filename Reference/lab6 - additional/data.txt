@@ -1,0 +1,4 @@
+us-east-1:963426e0-288c-4e16-89c1-c854c7b15955
+DenACZ
+
+arn:aws:cognito-identity:us-east-1:381491891048:identitypool/us-east-1:963426e0-288c-4e16-89c1-c854c7b15955
