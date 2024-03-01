@@ -7,3 +7,5 @@ This repository contains:
 - Dataset: Dataset used in this training
 - Lab Exercise: Lab exercise done in this training
 - Reference: Student guide and other references
+
+![alt text](https://github.com/ArdaniCesario/awsml-dts/blob/aws-academy-graduate-aws-academy-machine-learning-foundations.png?raw=true)
